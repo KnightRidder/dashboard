@@ -3,4 +3,6 @@
 #### including Routing, Server Side Rendering, Form actions, Authentication, Authorization, and many more
 
 
-Demo link: [dashboard](https://github.com/KnightRidder/dashboard)
+Demo link: [dashboard](https://dashboard-coral-kappa.vercel.app/dashboard/customers)
+Email: user@nextmail.com
+Password: 123456
