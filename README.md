@@ -1,5 +1,6 @@
-## Next.js App Router Course - Starter
+## Dashboard App Built in Next js 14
+### Project stack, Nextjs 14 + Postgres 
+### This is a FullStack web application built with Nextjs 14 user all the best features of Nextjs 14, including Routing, Server Side rendering, Form actions, Authentication, Authorization and many more
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Demo link: [dashboard](https://github.com/KnightRidder/dashboard)
